@@ -1,0 +1,787 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with sK1/UniConvertor (http://sk1project.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="595.276pt"
+   height="841.89pt"
+   viewBox="0 0 595.276 841.89"
+   fill-rule="evenodd"
+   version="1.1"
+   id="svg108"
+   sodipodi:docname="robots.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <metadata
+     id="metadata114">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs112">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter5370"
+       x="-0.092029613"
+       width="1.1840592"
+       y="-0.10032842"
+       height="1.2006568">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="6.5118582"
+         id="feGaussianBlur5372" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter5370-3"
+       x="-0.092029616"
+       width="1.1840591"
+       y="-0.10032842"
+       height="1.2006568">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="6.5118582"
+         id="feGaussianBlur5372-6" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter927"
+       x="-0.011503702"
+       width="1.0230074"
+       y="-0.012541052"
+       height="1.0250821">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.81398227"
+         id="feGaussianBlur929" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter931"
+       x="-0.011503702"
+       width="1.0230074"
+       y="-0.012541052"
+       height="1.0250821">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.81398227"
+         id="feGaussianBlur933" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1015"
+     id="namedview110"
+     showgrid="false"
+     inkscape:snap-global="false"
+     inkscape:zoom="0.84096492"
+     inkscape:cx="140.6135"
+     inkscape:cy="409.9643"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg108" />
+  <g
+     id="g1063"
+     inkscape:export-xdpi="100"
+     inkscape:export-ydpi="100">
+    <g
+       transform="translate(-243.29066,-18.156659)"
+       id="g1009">
+      <g
+         id="g4718"
+         style="fill:none;fill-opacity:1;stroke:#00a400;stroke-width:3.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter927)"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200">
+        <path
+           style="fill:none;fill-opacity:1;stroke:#00a400;stroke-width:3.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 348.63745,342.49691 c 14.5,-25.115 14.9168,-30.509 16.9684,-34.401 2.0517,-3.893 5.7382,-6.283 11.5551,-8.4 5.8169,-2.116 13.7643,-3.957 32.9643,-3.957"
+           id="path30"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#00a400;stroke-width:3.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 348.63745,342.49691 c -14.5,25.115 -18.963,28.172 -21.308,31.895 -2.3451,3.723 -2.5722,8.111 -1.4964,14.207 1.0759,6.096 3.4547,13.899 13.0547,30.527"
+           id="path32"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#00a400;stroke-width:3.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 410.12525,448.99691 c -29,0 -33.8797,2.336 -38.2764,2.505 -4.3967,0.17 -8.3104,-1.828 -13.0515,-5.807 -4.7411,-3.98 -10.3096,-9.942 -19.9096,-26.569"
+           id="path34"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#00a400;stroke-width:3.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 410.12525,448.99691 c 29,0 33.8797,2.336 38.2764,2.505 4.3967,0.17 8.3104,-1.828 13.0515,-5.807 4.7411,-3.98 10.3096,-9.942 19.9096,-26.569"
+           id="path36"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#00a400;stroke-width:3.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 471.61305,342.49691 c 14.5,25.115 18.963,28.172 21.308,31.895 2.3451,3.723 2.5722,8.111 1.4964,14.207 -1.0759,6.096 -3.4547,13.899 -13.0547,30.527"
+           id="path38"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#00a400;stroke-width:3.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 471.61305,342.49691 c -14.5,-25.115 -14.9168,-30.509 -16.9684,-34.401 -2.0517,-3.893 -5.7382,-6.283 -11.5551,-8.4 -5.8169,-2.116 -13.7643,-3.957 -32.9643,-3.957"
+           id="path40"
+           inkscape:connector-curvature="0" />
+      </g>
+      <path
+         sodipodi:nodetypes="cccccccccccccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="path955"
+         d="m 348.63745,342.49691 c -14.5,25.115 -18.963,28.172 -21.308,31.895 -2.3451,3.723 -2.5722,8.111 -1.4964,14.207 1.0759,6.096 3.4547,13.899 13.0547,30.527 v 0 c 9.6,16.627 15.1685,22.589 19.9096,26.569 4.7411,3.979 8.6548,5.977 13.0515,5.807 4.3967,-0.169 9.2764,-2.505 38.2764,-2.505 v 0 c 29,0 33.8797,2.336 38.2764,2.505 4.3967,0.17 8.3104,-1.828 13.0515,-5.807 4.7411,-3.98 10.3096,-9.942 19.9096,-26.569 v 0 c 9.6,-16.628 11.9788,-24.431 13.0547,-30.527 1.0758,-6.096 0.8487,-10.484 -1.4964,-14.207 -2.345,-3.723 -6.808,-6.78 -21.308,-31.895 v 0 c -14.5,-25.115 -14.9168,-30.509 -16.9684,-34.401 -2.0517,-3.893 -5.7382,-6.283 -11.5551,-8.4 -5.8169,-2.116 -13.7643,-3.957 -32.9643,-3.957 v 0 c -19.2,0 -27.1474,1.841 -32.9643,3.957 -5.8169,2.117 -9.5034,4.507 -11.5551,8.4 -2.0516,3.892 -2.4684,9.286 -16.9684,34.401"
+         style="fill:#ebffeb;fill-opacity:0.98039216;stroke:#00a400;stroke-width:3.67499995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98039216;filter:url(#filter931)"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200" />
+      <g
+         style="fill:none;fill-opacity:1;stroke:#00a400;stroke-width:3.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter5370)"
+         id="g5328"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200">
+        <path
+           inkscape:connector-curvature="0"
+           id="path5316"
+           d="m 348.63745,342.49691 c 14.5,-25.115 14.9168,-30.509 16.9684,-34.401 2.0517,-3.893 5.7382,-6.283 11.5551,-8.4 5.8169,-2.116 13.7643,-3.957 32.9643,-3.957"
+           style="fill:none;fill-opacity:1;stroke:#00a400;stroke-width:3.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path5318"
+           d="m 348.63745,342.49691 c -14.5,25.115 -18.963,28.172 -21.308,31.895 -2.3451,3.723 -2.5722,8.111 -1.4964,14.207 1.0759,6.096 3.4547,13.899 13.0547,30.527"
+           style="fill:none;fill-opacity:1;stroke:#00a400;stroke-width:3.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path5320"
+           d="m 410.12525,448.99691 c -29,0 -33.8797,2.336 -38.2764,2.505 -4.3967,0.17 -8.3104,-1.828 -13.0515,-5.807 -4.7411,-3.98 -10.3096,-9.942 -19.9096,-26.569"
+           style="fill:none;fill-opacity:1;stroke:#00a400;stroke-width:3.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path5322"
+           d="m 410.12525,448.99691 c 29,0 33.8797,2.336 38.2764,2.505 4.3967,0.17 8.3104,-1.828 13.0515,-5.807 4.7411,-3.98 10.3096,-9.942 19.9096,-26.569"
+           style="fill:none;fill-opacity:1;stroke:#00a400;stroke-width:3.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path5324"
+           d="m 471.61305,342.49691 c 14.5,25.115 18.963,28.172 21.308,31.895 2.3451,3.723 2.5722,8.111 1.4964,14.207 -1.0759,6.096 -3.4547,13.899 -13.0547,30.527"
+           style="fill:none;fill-opacity:1;stroke:#00a400;stroke-width:3.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path5326"
+           d="m 471.61305,342.49691 c -14.5,-25.115 -14.9168,-30.509 -16.9684,-34.401 -2.0517,-3.893 -5.7382,-6.283 -11.5551,-8.4 -5.8169,-2.116 -13.7643,-3.957 -32.9643,-3.957"
+           style="fill:none;fill-opacity:1;stroke:#00a400;stroke-width:3.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+      <path
+         inkscape:connector-curvature="0"
+         id="path18"
+         d="m 335.01495,382.10191 34,58.89"
+         style="fill:none;stroke:#000000;stroke-width:0.85039401;stroke-linecap:round;stroke-linejoin:round"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path20"
+         d="m 336.84495,375.27191 c -1.4941,0.865 -2.4999,2.481 -2.4999,4.33 0,0.91 0.2439,1.764 0.6698,2.5"
+         style="fill:none;stroke:#000000;stroke-width:0.85039401;stroke-linecap:round;stroke-linejoin:round"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path22"
+         d="m 355.46465,364.52191 -18.6196,10.75"
+         style="fill:none;stroke:#000000;stroke-width:0.85039401;stroke-linecap:round;stroke-linejoin:round"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path24"
+         d="m 355.46465,364.52191 39,67.55"
+         style="fill:none;stroke:#000000;stroke-width:0.85039401;stroke-linecap:round;stroke-linejoin:round"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path26"
+         d="m 394.46465,432.07191 -18.6196,10.75"
+         style="fill:none;stroke:#000000;stroke-width:0.85039401;stroke-linecap:round;stroke-linejoin:round"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path28"
+         d="m 369.01485,440.99191 c 0.865,1.494 2.4809,2.5 4.3302,2.5 0.9106,0 1.7645,-0.244 2.5002,-0.67"
+         style="fill:none;stroke:#000000;stroke-width:0.85039401;stroke-linecap:round;stroke-linejoin:round"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path46"
+         d="m 415.12525,389.54391 10.3892,5.998"
+         style="fill:none;stroke:#000000;stroke-width:0.85039401;stroke-linecap:round;stroke-linejoin:round"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path48"
+         d="m 415.12553,389.54391 c -1.47124,-0.852 -3.17919,-1.34 -5.00028,-1.34 -1.82109,0 -3.52904,0.488 -5.00028,1.34"
+         style="fill:none;stroke:#000000;stroke-width:0.85039401;stroke-linecap:round;stroke-linejoin:round"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path50"
+         d="m 405.12525,389.54391 -10.3892,5.998"
+         style="fill:none;stroke:#000000;stroke-width:0.85039401;stroke-linecap:round;stroke-linejoin:round"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path52"
+         d="m 387.23605,382.55191 7.5,12.99"
+         style="fill:none;stroke:#000000;stroke-width:0.85039401;stroke-linecap:round;stroke-linejoin:round"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path54"
+         d="m 397.62525,376.55291 -10.3892,5.999"
+         style="fill:none;stroke:#000000;stroke-width:0.85039401;stroke-linecap:round;stroke-linejoin:round"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path56"
+         d="m 397.62555,376.55391 c 2.98805,-1.73 4.9997,-4.962 4.9997,-8.661"
+         style="fill:none;stroke:#000000;stroke-width:0.85039401;stroke-linecap:round;stroke-linejoin:round"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path58"
+         d="m 402.62525,367.89291 v -11.996"
+         style="fill:none;stroke:#000000;stroke-width:0.85039401;stroke-linecap:round;stroke-linejoin:round"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path60"
+         d="m 417.62525,355.89691 h -15"
+         style="fill:none;stroke:#000000;stroke-width:0.85039401;stroke-linecap:round;stroke-linejoin:round"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path62"
+         d="m 417.62525,367.89291 v -11.996"
+         style="fill:none;stroke:#000000;stroke-width:0.85039401;stroke-linecap:round;stroke-linejoin:round"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path64"
+         d="m 417.62525,367.89291 c 0,3.699 2.01165,6.931 4.9997,8.661"
+         style="fill:none;stroke:#000000;stroke-width:0.85039401;stroke-linecap:round;stroke-linejoin:round"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path66"
+         d="m 422.62525,376.55291 10.3892,5.999"
+         style="fill:none;stroke:#000000;stroke-width:0.85039401;stroke-linecap:round;stroke-linejoin:round"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path68"
+         d="m 425.51445,395.54191 7.5,-12.99"
+         style="fill:none;stroke:#000000;stroke-width:0.85039401;stroke-linecap:round;stroke-linejoin:round"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200" />
+      <g
+         id="g4708"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.85039401;stroke-linecap:round;stroke-linejoin:round"
+           d="m 451.23555,440.99191 34,-58.89"
+           id="path72"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.85039401;stroke-linecap:round;stroke-linejoin:round"
+           d="m 444.40525,442.82191 c 0.7357,0.426 1.5896,0.67 2.5002,0.67 1.8493,0 3.4652,-1.006 4.3302,-2.5"
+           id="path74"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.85039401;stroke-linecap:round;stroke-linejoin:round"
+           d="m 425.78585,432.07191 18.6196,10.75"
+           id="path76"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.85039401;stroke-linecap:round;stroke-linejoin:round"
+           d="m 425.78585,432.07191 39,-67.55"
+           id="path78"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.85039401;stroke-linecap:round;stroke-linejoin:round"
+           d="m 464.78585,364.52191 18.6196,10.75"
+           id="path80"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.85039401;stroke-linecap:round;stroke-linejoin:round"
+           d="m 485.23565,382.10191 c 0.4259,-0.736 0.6698,-1.59 0.6698,-2.5 0,-1.849 -1.0058,-3.465 -2.4999,-4.33"
+           id="path82"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="g993"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.85039401;stroke-linecap:round;stroke-linejoin:round"
+           d="m 444.12525,310.89691 h -68"
+           id="path84"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.85039401;stroke-linecap:round;stroke-linejoin:round"
+           d="m 449.12525,315.89691 c 0,-2.76 -2.2402,-5 -5,-5"
+           id="path86"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.85039401;stroke-linecap:round;stroke-linejoin:round"
+           d="m 449.12525,337.39691 v -21.5"
+           id="path88"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.85039401;stroke-linecap:round;stroke-linejoin:round"
+           d="m 449.12525,337.39691 h -78"
+           id="path90"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.85039401;stroke-linecap:round;stroke-linejoin:round"
+           d="m 371.12525,337.39691 v -21.5"
+           id="path92"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.85039401;stroke-linecap:round;stroke-linejoin:round"
+           d="m 376.12525,310.89691 c -2.7598,0 -5,2.24 -5,5"
+           id="path94"
+           inkscape:connector-curvature="0" />
+      </g>
+      <rect
+         style="opacity:0.97000002;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.27499998;stroke-miterlimit:4;stroke-dasharray:2.54999993, 2.54999993;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect985"
+         width="70.471886"
+         height="21.125799"
+         x="374.88931"
+         y="313.58701"
+         ry="5.9908986"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200" />
+      <rect
+         ry="5.9908986"
+         y="587.28766"
+         x="-157.48093"
+         height="21.125799"
+         width="70.471886"
+         id="rect997"
+         style="opacity:0.97000002;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.27499998;stroke-miterlimit:4;stroke-dasharray:2.54999993, 2.54999993;stroke-dashoffset:0;stroke-opacity:1"
+         transform="rotate(-60)"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200" />
+      <rect
+         transform="rotate(60)"
+         style="opacity:0.97000002;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.27499998;stroke-miterlimit:4;stroke-dasharray:2.54999993, 2.54999993;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4710"
+         width="70.471886"
+         height="21.125799"
+         x="496.13406"
+         y="-122.9142"
+         ry="5.9908986"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200" />
+    </g>
+    <rect
+       ry="6.2213135"
+       y="254.21875"
+       x="65.584579"
+       height="202.5"
+       width="202.5"
+       id="rect957"
+       style="opacity:0.97000002;fill:none;fill-opacity:1;stroke:none;stroke-width:3.81634593;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.98039216" />
+  </g>
+  <g
+     id="g1171"
+     inkscape:export-xdpi="100"
+     inkscape:export-ydpi="100">
+    <g
+       transform="translate(-251.24401,21.932981)"
+       id="g1117">
+      <g
+         transform="translate(19.958209,253.22286)"
+         style="fill:none;fill-opacity:1;stroke:#0014c5;stroke-width:3.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter5370-3)"
+         id="g5328-4"
+         inkscape:export-filename="/home/herve/Bureau/bazard RV/simulateur robocup/img/blue_robot.png"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200">
+        <path
+           inkscape:connector-curvature="0"
+           id="path5316-7"
+           d="m 348.63745,342.49691 c 14.5,-25.115 14.9168,-30.509 16.9684,-34.401 2.0517,-3.893 5.7382,-6.283 11.5551,-8.4 5.8169,-2.116 13.7643,-3.957 32.9643,-3.957"
+           style="fill:none;fill-opacity:1;stroke:#0014c5;stroke-width:3.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path5318-8"
+           d="m 348.63745,342.49691 c -14.5,25.115 -18.963,28.172 -21.308,31.895 -2.3451,3.723 -2.5722,8.111 -1.4964,14.207 1.0759,6.096 3.4547,13.899 13.0547,30.527"
+           style="fill:none;fill-opacity:1;stroke:#0014c5;stroke-width:3.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path5320-4"
+           d="m 410.12525,448.99691 c -29,0 -33.8797,2.336 -38.2764,2.505 -4.3967,0.17 -8.3104,-1.828 -13.0515,-5.807 -4.7411,-3.98 -10.3096,-9.942 -19.9096,-26.569"
+           style="fill:none;fill-opacity:1;stroke:#0014c5;stroke-width:3.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path5322-5"
+           d="m 410.12525,448.99691 c 29,0 33.8797,2.336 38.2764,2.505 4.3967,0.17 8.3104,-1.828 13.0515,-5.807 4.7411,-3.98 10.3096,-9.942 19.9096,-26.569"
+           style="fill:none;fill-opacity:1;stroke:#0014c5;stroke-width:3.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path5324-0"
+           d="m 471.61305,342.49691 c 14.5,25.115 18.963,28.172 21.308,31.895 2.3451,3.723 2.5722,8.111 1.4964,14.207 -1.0759,6.096 -3.4547,13.899 -13.0547,30.527"
+           style="fill:none;fill-opacity:1;stroke:#0014c5;stroke-width:3.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path5326-3"
+           d="m 471.61305,342.49691 c -14.5,-25.115 -14.9168,-30.509 -16.9684,-34.401 -2.0517,-3.893 -5.7382,-6.283 -11.5551,-8.4 -5.8169,-2.116 -13.7643,-3.957 -32.9643,-3.957"
+           style="fill:none;fill-opacity:1;stroke:#0014c5;stroke-width:3.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+      <g
+         transform="translate(19.958209,253.22286)"
+         id="g4718-9"
+         style="fill:none;fill-opacity:1;stroke:#0014af;stroke-width:3.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter931)"
+         inkscape:export-filename="/home/herve/Bureau/bazard RV/simulateur robocup/img/blue_robot.png"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200">
+        <path
+           style="fill:none;fill-opacity:1;stroke:#0014af;stroke-width:3.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 348.63745,342.49691 c 14.5,-25.115 14.9168,-30.509 16.9684,-34.401 2.0517,-3.893 5.7382,-6.283 11.5551,-8.4 5.8169,-2.116 13.7643,-3.957 32.9643,-3.957"
+           id="path30-1"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#0014af;stroke-width:3.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 348.63745,342.49691 c -14.5,25.115 -18.963,28.172 -21.308,31.895 -2.3451,3.723 -2.5722,8.111 -1.4964,14.207 1.0759,6.096 3.4547,13.899 13.0547,30.527"
+           id="path32-2"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#0014af;stroke-width:3.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 410.12525,448.99691 c -29,0 -33.8797,2.336 -38.2764,2.505 -4.3967,0.17 -8.3104,-1.828 -13.0515,-5.807 -4.7411,-3.98 -10.3096,-9.942 -19.9096,-26.569"
+           id="path34-7"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#0014af;stroke-width:3.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 410.12525,448.99691 c 29,0 33.8797,2.336 38.2764,2.505 4.3967,0.17 8.3104,-1.828 13.0515,-5.807 4.7411,-3.98 10.3096,-9.942 19.9096,-26.569"
+           id="path36-0"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#0014af;stroke-width:3.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 471.61305,342.49691 c 14.5,25.115 18.963,28.172 21.308,31.895 2.3451,3.723 2.5722,8.111 1.4964,14.207 -1.0759,6.096 -3.4547,13.899 -13.0547,30.527"
+           id="path38-9"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#0014af;stroke-width:3.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 471.61305,342.49691 c -14.5,-25.115 -14.9168,-30.509 -16.9684,-34.401 -2.0517,-3.893 -5.7382,-6.283 -11.5551,-8.4 -5.8169,-2.116 -13.7643,-3.957 -32.9643,-3.957"
+           id="path40-3"
+           inkscape:connector-curvature="0" />
+      </g>
+      <path
+         style="fill:#e7eaff;fill-opacity:1;stroke:#0014af;stroke-width:3.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter931)"
+         d="m 368.59566,595.71977 c -14.5,25.115 -18.963,28.172 -21.308,31.895 -2.3451,3.723 -2.5722,8.111 -1.4964,14.207 1.0759,6.096 3.4547,13.899 13.0547,30.527 v 0 c 9.6,16.627 15.1685,22.589 19.9096,26.569 4.7411,3.979 8.6548,5.977 13.0515,5.807 4.3967,-0.169 9.2764,-2.505 38.2764,-2.505 v 0 c 29,0 33.8797,2.336 38.2764,2.505 4.3967,0.17 8.3104,-1.828 13.0515,-5.807 4.7411,-3.98 10.3096,-9.942 19.9096,-26.569 v 0 c 9.6,-16.628 11.9788,-24.431 13.0547,-30.527 1.0758,-6.096 0.8487,-10.484 -1.4964,-14.207 -2.345,-3.723 -6.808,-6.78 -21.308,-31.895 v 0 c -14.5,-25.115 -14.9168,-30.509 -16.9684,-34.401 -2.0517,-3.893 -5.7382,-6.283 -11.5551,-8.4 -5.8169,-2.116 -13.7643,-3.957 -32.9643,-3.957 v 0 c -19.2,0 -27.1474,1.841 -32.9643,3.957 -5.8169,2.117 -9.5034,4.507 -11.5551,8.4 -2.0516,3.892 -2.4684,9.286 -16.9684,34.401"
+         id="path937"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccccccccccccccccccc"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path18-7"
+         d="m 354.97317,635.32478 34,58.89"
+         style="fill:none;stroke:#000000;stroke-width:0.85039401;stroke-linecap:round;stroke-linejoin:round"
+         inkscape:export-filename="/home/herve/Bureau/bazard RV/simulateur robocup/img/blue_robot.png"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path20-5"
+         d="m 356.80317,628.49478 c -1.4941,0.86501 -2.4999,2.481 -2.4999,4.33001 0,0.90999 0.2439,1.764 0.6698,2.49999"
+         style="fill:none;stroke:#000000;stroke-width:0.85039401;stroke-linecap:round;stroke-linejoin:round"
+         inkscape:export-filename="/home/herve/Bureau/bazard RV/simulateur robocup/img/blue_robot.png"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path22-3"
+         d="m 375.42287,617.74478 -18.6196,10.75"
+         style="fill:none;stroke:#000000;stroke-width:0.85039401;stroke-linecap:round;stroke-linejoin:round"
+         inkscape:export-filename="/home/herve/Bureau/bazard RV/simulateur robocup/img/blue_robot.png"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path24-5"
+         d="m 375.42287,617.74478 39,67.55"
+         style="fill:none;stroke:#000000;stroke-width:0.85039401;stroke-linecap:round;stroke-linejoin:round"
+         inkscape:export-filename="/home/herve/Bureau/bazard RV/simulateur robocup/img/blue_robot.png"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path26-6"
+         d="m 414.42287,685.29478 -18.6196,10.75"
+         style="fill:none;stroke:#000000;stroke-width:0.85039401;stroke-linecap:round;stroke-linejoin:round"
+         inkscape:export-filename="/home/herve/Bureau/bazard RV/simulateur robocup/img/blue_robot.png"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path28-2"
+         d="m 388.97307,694.21478 c 0.865,1.494 2.4809,2.50001 4.3302,2.50001 0.9106,0 1.7645,-0.24401 2.5002,-0.67001"
+         style="fill:none;stroke:#000000;stroke-width:0.85039401;stroke-linecap:round;stroke-linejoin:round"
+         inkscape:export-filename="/home/herve/Bureau/bazard RV/simulateur robocup/img/blue_robot.png"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path46-6"
+         d="m 435.08348,642.76679 10.38919,5.99799"
+         style="fill:none;stroke:#000000;stroke-width:0.85039401;stroke-linecap:round;stroke-linejoin:round"
+         inkscape:export-filename="/home/herve/Bureau/bazard RV/simulateur robocup/img/blue_robot.png"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path48-0"
+         d="m 435.08375,642.76679 c -1.47123,-0.852 -3.17919,-1.34001 -5.00028,-1.34001 -1.82109,0 -3.52904,0.48801 -5.00028,1.34001"
+         style="fill:none;stroke:#000000;stroke-width:0.85039401;stroke-linecap:round;stroke-linejoin:round"
+         inkscape:export-filename="/home/herve/Bureau/bazard RV/simulateur robocup/img/blue_robot.png"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path50-6"
+         d="m 425.08347,642.76679 -10.3892,5.99799"
+         style="fill:none;stroke:#000000;stroke-width:0.85039401;stroke-linecap:round;stroke-linejoin:round"
+         inkscape:export-filename="/home/herve/Bureau/bazard RV/simulateur robocup/img/blue_robot.png"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path52-2"
+         d="m 407.19427,635.77478 7.5,12.99"
+         style="fill:none;stroke:#000000;stroke-width:0.85039401;stroke-linecap:round;stroke-linejoin:round"
+         inkscape:export-filename="/home/herve/Bureau/bazard RV/simulateur robocup/img/blue_robot.png"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path54-6"
+         d="m 417.58347,629.77578 -10.3892,5.999"
+         style="fill:none;stroke:#000000;stroke-width:0.85039401;stroke-linecap:round;stroke-linejoin:round"
+         inkscape:export-filename="/home/herve/Bureau/bazard RV/simulateur robocup/img/blue_robot.png"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path56-1"
+         d="m 417.58377,629.77679 c 2.98805,-1.73001 4.9997,-4.962 4.9997,-8.661"
+         style="fill:none;stroke:#000000;stroke-width:0.85039401;stroke-linecap:round;stroke-linejoin:round"
+         inkscape:export-filename="/home/herve/Bureau/bazard RV/simulateur robocup/img/blue_robot.png"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path58-8"
+         d="M 422.58347,621.11579 V 609.11978"
+         style="fill:none;stroke:#000000;stroke-width:0.85039401;stroke-linecap:round;stroke-linejoin:round"
+         inkscape:export-filename="/home/herve/Bureau/bazard RV/simulateur robocup/img/blue_robot.png"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path60-7"
+         d="m 437.58347,609.11978 h -15"
+         style="fill:none;stroke:#000000;stroke-width:0.85039401;stroke-linecap:round;stroke-linejoin:round"
+         inkscape:export-filename="/home/herve/Bureau/bazard RV/simulateur robocup/img/blue_robot.png"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path62-9"
+         d="M 437.58347,621.11579 V 609.11978"
+         style="fill:none;stroke:#000000;stroke-width:0.85039401;stroke-linecap:round;stroke-linejoin:round"
+         inkscape:export-filename="/home/herve/Bureau/bazard RV/simulateur robocup/img/blue_robot.png"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path64-2"
+         d="m 437.58347,621.11579 c 0,3.699 2.01165,6.93099 4.9997,8.661"
+         style="fill:none;stroke:#000000;stroke-width:0.85039401;stroke-linecap:round;stroke-linejoin:round"
+         inkscape:export-filename="/home/herve/Bureau/bazard RV/simulateur robocup/img/blue_robot.png"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path66-0"
+         d="m 442.58347,629.77578 10.3892,5.999"
+         style="fill:none;stroke:#000000;stroke-width:0.85039401;stroke-linecap:round;stroke-linejoin:round"
+         inkscape:export-filename="/home/herve/Bureau/bazard RV/simulateur robocup/img/blue_robot.png"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path68-2"
+         d="m 445.47267,648.76478 7.5,-12.99"
+         style="fill:none;stroke:#000000;stroke-width:0.85039401;stroke-linecap:round;stroke-linejoin:round"
+         inkscape:export-filename="/home/herve/Bureau/bazard RV/simulateur robocup/img/blue_robot.png"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200" />
+      <g
+         transform="translate(19.958209,253.22286)"
+         id="g4708-3"
+         inkscape:export-filename="/home/herve/Bureau/bazard RV/simulateur robocup/img/blue_robot.png"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.85039401;stroke-linecap:round;stroke-linejoin:round"
+           d="m 451.23555,440.99191 34,-58.89"
+           id="path72-7"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.85039401;stroke-linecap:round;stroke-linejoin:round"
+           d="m 444.40525,442.82191 c 0.7357,0.426 1.5896,0.67 2.5002,0.67 1.8493,0 3.4652,-1.006 4.3302,-2.5"
+           id="path74-5"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.85039401;stroke-linecap:round;stroke-linejoin:round"
+           d="m 425.78585,432.07191 18.6196,10.75"
+           id="path76-9"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.85039401;stroke-linecap:round;stroke-linejoin:round"
+           d="m 425.78585,432.07191 39,-67.55"
+           id="path78-2"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.85039401;stroke-linecap:round;stroke-linejoin:round"
+           d="m 464.78585,364.52191 18.6196,10.75"
+           id="path80-2"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.85039401;stroke-linecap:round;stroke-linejoin:round"
+           d="m 485.23565,382.10191 c 0.4259,-0.736 0.6698,-1.59 0.6698,-2.5 0,-1.849 -1.0058,-3.465 -2.4999,-4.33"
+           id="path82-8"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         transform="translate(19.958209,253.22286)"
+         id="g993-9"
+         inkscape:export-filename="/home/herve/Bureau/bazard RV/simulateur robocup/img/blue_robot.png"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.85039401;stroke-linecap:round;stroke-linejoin:round"
+           d="m 444.12525,310.89691 h -68"
+           id="path84-7"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.85039401;stroke-linecap:round;stroke-linejoin:round"
+           d="m 449.12525,315.89691 c 0,-2.76 -2.2402,-5 -5,-5"
+           id="path86-3"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.85039401;stroke-linecap:round;stroke-linejoin:round"
+           d="m 449.12525,337.39691 v -21.5"
+           id="path88-6"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.85039401;stroke-linecap:round;stroke-linejoin:round"
+           d="m 449.12525,337.39691 h -78"
+           id="path90-1"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.85039401;stroke-linecap:round;stroke-linejoin:round"
+           d="m 371.12525,337.39691 v -21.5"
+           id="path92-2"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.85039401;stroke-linecap:round;stroke-linejoin:round"
+           d="m 376.12525,310.89691 c -2.7598,0 -5,2.24 -5,5"
+           id="path94-9"
+           inkscape:connector-curvature="0" />
+      </g>
+      <rect
+         style="opacity:0.97000002;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.27499998;stroke-miterlimit:4;stroke-dasharray:2.55, 2.55;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect985-3"
+         width="70.471886"
+         height="21.125801"
+         x="394.84753"
+         y="566.80988"
+         ry="5.9908991"
+         inkscape:export-filename="/home/herve/Bureau/bazard RV/simulateur robocup/img/blue_robot.png"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200" />
+      <rect
+         ry="5.9908986"
+         y="731.18341"
+         x="-366.79926"
+         height="21.125801"
+         width="70.471886"
+         id="rect997-1"
+         style="opacity:0.97000002;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.27499998;stroke-miterlimit:4;stroke-dasharray:2.54999999, 2.54999999;stroke-dashoffset:0;stroke-opacity:1"
+         transform="rotate(-60.000001)"
+         inkscape:export-filename="/home/herve/Bureau/bazard RV/simulateur robocup/img/blue_robot.png"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200" />
+      <rect
+         transform="rotate(60.000001)"
+         style="opacity:0.97000002;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.27499998;stroke-miterlimit:4;stroke-dasharray:2.54999999, 2.54999999;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4710-9"
+         width="70.471886"
+         height="21.125801"
+         x="725.41058"
+         y="-13.587096"
+         ry="5.9908986"
+         inkscape:export-filename="/home/herve/Bureau/bazard RV/simulateur robocup/img/blue_robot.png"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200" />
+    </g>
+    <rect
+       ry="5.6916137"
+       y="547.53125"
+       x="77.589439"
+       height="202.5"
+       width="202.5"
+       id="rect1065"
+       style="opacity:0.97000002;fill:none;fill-opacity:1;stroke:none;stroke-width:3.65571022;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.98039216" />
+  </g>
+</svg>
